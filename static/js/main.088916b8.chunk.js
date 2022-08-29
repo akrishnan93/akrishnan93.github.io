@@ -1344,10 +1344,10 @@
                     " by",
                     " ",
                     Object(d.jsx)("a", {
-                      href: "https://github.com/pranayagra",
+                      href: "https://github.com/akrishnan93",
                       className: "has-text-white",
                       children: Object(d.jsx)("strong", {
-                        children: "Pranay Agrawal",
+                        children: "Anand Krishnan",
                       }),
                     }),
                   ],
