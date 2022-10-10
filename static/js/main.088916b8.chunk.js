@@ -1248,7 +1248,7 @@
                       className: "is-mobile has-text-centered",
                       style: { color: "white" },
                       children:
-                        "You can find my email address and links to my Linkedin, GitHub, and Devpost accounts below:",
+                        "You can find my email address and links to my Linkedin, GitHub, and Devpost accounts above:",
                     }),
                     Object(d.jsx)("br", {}),
                     Object(d.jsx)("div", {
